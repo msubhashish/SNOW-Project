@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_template">
+    <sys_template action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <global>false</global>
+        <group display_value="Hardware" name="Hardware">8a5055c9c61122780043563ef53438e3</group>
+        <link_element/>
+        <name>Sample Change Template</name>
+        <next/>
+        <next_child/>
+        <roles/>
+        <short_description>Sample Change Template</short_description>
+        <show_on_template_bar>true</show_on_template_bar>
+        <stand_alone>false</stand_alone>
+        <sys_class_name>sys_template</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-06-13 07:50:51</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>1e33298a4f13320038413fb28110c766</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Sample Change Template</sys_name>
+        <sys_package display_value="Hotel" source="x_123800_hotel">f8c561234f03320038413fb28110c7ce</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Hotel">f8c561234f03320038413fb28110c7ce</sys_scope>
+        <sys_update_name>sys_template_1e33298a4f13320038413fb28110c766</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-06-13 07:50:51</sys_updated_on>
+        <table>change_request</table>
+        <template>assignment_group...=Hardware^cab_recommendation=test^EQ</template>
+        <user display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</user>
+        <view/>
+    </sys_template>
+</record_update>

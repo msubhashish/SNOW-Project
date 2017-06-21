@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_section caption="" section_id="6c437a504f23320038413fb28110c769" sys_domain="global" table="x_123800_hotel_guest" version="3" view="Simple">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>first_name</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-20 13:24:07</sys_created_on>
+            <sys_id>60437a504f23320038413fb28110c76a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_123800_hotel_guest" sys_domain="global" view="4a9d2c3e4f13320038413fb28110c728">6c437a504f23320038413fb28110c769</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-20 13:24:07</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>membership_number</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-20 13:24:07</sys_created_on>
+            <sys_id>e0437a504f23320038413fb28110c76a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_123800_hotel_guest" sys_domain="global" view="4a9d2c3e4f13320038413fb28110c728">6c437a504f23320038413fb28110c769</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-20 13:24:07</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-20 13:24:07</sys_created_on>
+            <sys_id>64437a504f23320038413fb28110c76a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_123800_hotel_guest" sys_domain="global" view="4a9d2c3e4f13320038413fb28110c728">6c437a504f23320038413fb28110c769</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-20 13:24:07</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>last_name</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-20 13:24:07</sys_created_on>
+            <sys_id>e4437a504f23320038413fb28110c76a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_123800_hotel_guest" sys_domain="global" view="4a9d2c3e4f13320038413fb28110c728">6c437a504f23320038413fb28110c769</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-20 13:24:07</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_123800_hotel_guest</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-20 13:24:07</sys_created_on>
+            <sys_customer_update>true</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6c437a504f23320038413fb28110c769</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_123800_hotel_guest</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Hotel" source="x_123800_hotel">f8c561234f03320038413fb28110c7ce</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Hotel">f8c561234f03320038413fb28110c7ce</sys_scope>
+            <sys_update_name>sys_ui_section_6c437a504f23320038413fb28110c769</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-20 13:24:07</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Simple" name="Simple">4a9d2c3e4f13320038413fb28110c728</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>
